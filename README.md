@@ -1,8 +1,6 @@
 ### 📈 Infographic
-<div style="display:flex; flex-direction:row;">
-    <a ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhdj0107)>
-    <a [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhdj0107)]>
-</div><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhdj0107)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhdj0107)
 
 ### 💻Skills
 <div style="display:flex; flex-direction:row;">
